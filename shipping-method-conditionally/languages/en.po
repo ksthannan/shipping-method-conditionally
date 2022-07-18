@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-06-19 13:50+0600\n"
+"PO-Revision-Date: 2022-06-19 13:50+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;esc_attr_;esc_attr__;esc_html;"
+"esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/Admin.php:79
+msgid "Shipping Method Showing Conditionally"
+msgstr ""
+
+#: includes/Admin.php:81
+msgid "Click on the shipping item below to activate timing conditions."
+msgstr ""
+
+#: includes/Admin.php:85
+msgid "Reset All"
+msgstr ""
+
+#: includes/Admin.php:89
+msgid "Go back to time settings"
+msgstr ""
+
+#: includes/Admin.php:90
+msgid "Refresh"
+msgstr ""
+
+#: includes/Admin/Menu.php:19
+msgid "Shipping Method Show/Hide Conditionally"
+msgstr ""
+
+#: includes/Admin/Menu.php:19
+msgid "Shipping Method Manage Conditionally"
+msgstr ""
+
+#: includes/Admin/Settings.php:21
+msgid "Current Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:30
+msgid "No Active Shipping Method Conditionally"
+msgstr ""
+
+#: includes/Admin/Settings.php:35
+msgid "Shipping Method Settings into Zone"
+msgstr ""
+
+#: includes/Admin/Settings.php:52
+msgid "Custom Time Range Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:57
+msgid ""
+"Please change timezone by name instead of UTC/Manual-Offsets to get the best "
+"results."
+msgstr ""
+
+#: includes/Admin/Settings.php:62
+msgid "Timezone settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:138
+msgid "Manage shipping method conditionally based on time tange"
+msgstr ""

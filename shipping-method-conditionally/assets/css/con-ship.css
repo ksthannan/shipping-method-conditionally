@@ -1,0 +1,70 @@
+/* Admin dashboard CSS */
+
+.all_shipping_methods li a {
+  display: inline-block;
+  padding: 4px 10px;
+  background: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+  border: 1px solid #007cba;
+  transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  border-left: 1px solid #007cba;
+}
+.all_shipping_methods li a:hover {
+  border: 1px solid #007cba;
+  padding-right: 20px;
+  background: #007cba;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 3px;
+}
+/* .all_shipping_methods li:first-child a {
+  background: #d63638;
+  color: #fff;
+  border-radius: 3px;
+  opacity: 0.7;
+} */
+
+.all_shipping_methods li:first-child a:hover {
+  opacity: 1;
+}
+.all_shipping_methods li span {
+  background: #007cba;
+  color: #fff;
+  padding: 5px 10px;
+  cursor: default;
+  border-radius: 3px;
+}
+p.active_shipping {
+  color: green;
+  background: #fff;
+  padding: 5px 10px;
+  display: inline-block;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  cursor: default;
+}
+td.info_frame_box {
+  background: #fff;
+  padding: 10px 15px !important;
+  border: 1px solid #ddd;
+}
+ul#activate_ship li.deactivate a {
+  color: #d63638;
+  border: 1px solid #fff;
+}
+ul#activate_ship li.deactivate a:hover {
+  color: #fff;
+  border: 1px solid #fff;
+}
+li.deactivate {
+  color: #007cba;
+}
+.all_shipping_methods li span {
+  background: #ddd;
+  color: #007cba;
+  padding: 5px 10px;
+  cursor: default;
+  border-radius: 3px;
+}

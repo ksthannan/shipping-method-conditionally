@@ -1,0 +1,22 @@
+{
+  "name": "themeongon/woo-shipping-method-conditionally",
+  "description": "Woocommmerce manage shipping method based on time range conditionally.",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Abdul Hannan",
+      "email": "abdulhannan.kum@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Themeongon\\Woosame\\": "includes/"
+    },
+    "files": [
+      "includes/Functions.php"
+    ]
+  }
+}
